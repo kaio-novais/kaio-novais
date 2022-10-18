@@ -7,6 +7,8 @@ pelo mundo!
 ###### Abaixo estão algumas das tecnologias que ja aprendi,  
 e estou aprendendo:
 
+            <i class="devicon-css3-plain-wordmark"></i>
+          
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
