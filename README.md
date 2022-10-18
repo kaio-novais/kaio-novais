@@ -6,4 +6,4 @@ pelo mundo!
 -------------------------------------------------------
 ###### Abaixo estão algumas das tecnologias que ja aprendi, e estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width=40px height=40px/>
